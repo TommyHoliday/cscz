@@ -1,0 +1,10 @@
+awp_dust2_largo
+---------------
+
+de_dust2_largo modificado para AWP 
+
+By D@nGer | Wolfenstein 3D
+
+Visita http://www.clandanger.com.ar/
+
+(Press FIRE to continue)

@@ -9,4 +9,3 @@ Original by: https://github.com/rhnvrm/czero
 4. docker ps
 5. bash ./build.sh
 6. bash ./start.sh
-# cscz
