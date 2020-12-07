@@ -4,6 +4,10 @@ RUN apt-get update && apt-get install wget unzip
 
 # Add maps
 COPY maps/* czero/maps/
+COPY gfx/* czero/gfx/
+COPY models/* czero/models/
+COPY sound/* czero/sound/
+COPY sprites/* czero/sprites/
 
 # Add Metamod
 #COPY amxmodx/metamod/metamod-p-1.21p37-linux_i686.tar.gz .
