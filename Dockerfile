@@ -56,4 +56,4 @@ PugVote.amxx 	; Vote Commands\n'\
 
 # Copy configs
 COPY config/server.cfg czero/server.cfg
-# COPY pug/configs/pug/* czero/addons/amxmodx/configs/
+COPY pug/configs/pug/* czero/addons/amxmodx/configs/
